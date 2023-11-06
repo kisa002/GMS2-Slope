@@ -19,4 +19,5 @@ gra = 1; // gravity
 isJump = false; //jump check
 ```
 
-[![GameMaker: Studio 2 Slope](http://img.youtube.com/vi/BSdb45EqEeI/0.jpg)](https://www.youtube.com/watch?v=BSdb45EqEeI)
+# Demo Video
+[![GameMaker: Studio 2 Slope](https://img.youtube.com/vi/BSdb45EqEeI/maxresdefault.jpg)](https://www.youtube.com/watch?v=BSdb45EqEeI)
